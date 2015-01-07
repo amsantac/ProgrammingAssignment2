@@ -3,7 +3,7 @@
 ## This R script contains two functions: makeCacheMatrix and cacheSolve
 
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse
-## This functions sets the value of the matrix, gets the value of the matrix
+## This function sets the value of the matrix, gets the value of the matrix
 ## sets the value of the inverse of the matrix and gets the value of the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
